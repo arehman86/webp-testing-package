@@ -8,14 +8,14 @@ let package = Package(
     products: [
         .library(
             name: "webp-package",
-            targets: ["SharpYuv", "Webp"]),
+            targets: ["SharpYuv", "WebP"]),
     ],
     targets: [
         .binaryTarget(name: "SharpYuv",
                       url: "https://dist.acrobits.net/webp-package/SharpYuv.xcframework.zip",
-                      checksum: "3691e1345018f488221f7bfdd682d27d2602fcaf47fec53e355de7099e3fa1fd"),
-        .binaryTarget(name: "Webp",
-                      url: "https://dist.acrobits.net/webp-package/Webp.xcframework.zip",
-                      checksum: "ee9dc2a26fdbcaa100197a152abe04f058e51e13dfea21713795109cda4995f9")
+                      checksum: "407d9c688091528e748091d858110936b6a4523c19fd721375006be4ebc80c1a"),
+        .binaryTarget(name: "WebP",
+                      url: "https://dist.acrobits.net/webp-package/WebP.xcframework.zip",
+                      checksum: "d2239979419990577e7ca01ef9439d9c89bdf9afef7a6781b0b9b2e99b1a87f2")
     ]
 )

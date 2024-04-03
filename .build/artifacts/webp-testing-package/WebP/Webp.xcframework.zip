@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:svg="http://www.w3.org/2000/svg">
+	<head>
+		<title>Acrobits Distribution :: webp-package</title>
+		<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon"/>
+		<link rel="stylesheet" href="/style.css" type="text/css"/>
+		<script src="/jquery.js" type="text/javascript"></script>
+		<script src="/script.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<h1><span id="acro">Acro</span><span id="bits">bits</span> <span id="distribution">Distribution</span></h1>
+		<h2>webp-package</h2>
+		<div class="rounded block">
+				<h3>Not Found</h3>
+			<a><img src="/icons/warning.png" alt=""/><span>The requested resource does not exist.</span></a>
+		</div>
+		<p id="🃏">Copyright © 2008&nbsp;-&nbsp;2024 <a href="http://www.acrobits.net/">Acrobits,&nbsp;s.r.o</a>. All rights reserved.<br/>
+			All trademarks and registered trademarks are property of their respective owners.<br/>
+			Oxygen Icons licensed under <a href="https://www.gnu.org/licenses/lgpl.html">GNU LGPLv3</a>.</p>
+	</body>
+</html>
